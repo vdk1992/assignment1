@@ -18,7 +18,7 @@ public class CyberMissile {
         // TODO code application logic here
         FlightSystem fs = new FlightSystem();
         Warhead wh = new Warhead();
-        fs.setTarget("Argsfoh University");
+        fs.setTarget("The Mother Earth");
         wh.explode();
     }
     
