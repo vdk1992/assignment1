@@ -10,5 +10,7 @@ package cybermissile;
  * @author csc190
  */
 public class FlightSystem {
-    
+    public void setTarget(String target){
+        System.out.println("Flying to ... " + target);
+    }
 }
