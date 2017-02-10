@@ -22,8 +22,8 @@ public class CyberMissile {
         fs.setTarget("Moon");
         wh.selfdestruct();
 =======
-        fs.setTarget("The Mother Earth");
-        wh.explode();
+        fs.setTarget("Moon");
+        wh.selfdestruct();
 >>>>>>> THE_END
     }
     
